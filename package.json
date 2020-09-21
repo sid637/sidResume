@@ -1,0 +1,11 @@
+{
+  "name": "server-resume",
+  "version": "1.0.0",
+  "description": "it a server for sid web resume",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siddharth sharma",
+  "license": "ISC"
+}
